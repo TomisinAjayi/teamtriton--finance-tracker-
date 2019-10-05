@@ -146,10 +146,7 @@ function Login(props) {
                 <div className="overlay"></div>
                 <div className="desc-text">
                     <h4> TristonFinApp gives best services to our customers. </h4>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                       
-                    </p>
+                   
                     <Button
                         className="inverted-white get-started"
                         outline
